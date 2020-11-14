@@ -1,4 +1,4 @@
-# Vant/Vant-cli 流程和源码赏析 （个人理解）注释、流图图持续更新
+# Vant/Vant-cli 流程和源码赏析 （个人理解）源码注释、流程图持续更新
 
 # 目录
 [vant 源码分析](https://github.com/LoveEocding/vant-remarks/blob/master/%40vant2.x/vant.md)  
