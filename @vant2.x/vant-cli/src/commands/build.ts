@@ -77,7 +77,7 @@ async function buildLib() { //打包lib文件夹
 }
 
 async function buildStyleEntry() {
-  await genStyleDepsMap();
+  await genStyleDepsMap(); // 从入口遍历 依赖 向文件style-deps.json 写入依赖
   genComponentStyle();
 }
 
